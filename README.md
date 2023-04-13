@@ -1,7 +1,7 @@
 # Music-Store-Data-Analysis
 
 # Objective: 
-**The objective is to analyse the music playlist database and help the store to understand its business growth by answering simple question.**
+**The objective is to analyze the music playlist database and help the store to understand its business growth by answering simple question.**
 
 ## Database and Tools used:**
 - Postgre SQL
